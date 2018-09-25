@@ -1,0 +1,10 @@
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\bin\Debug\Practico_2_adasme.exe.config
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\bin\Debug\Practico_2_adasme.exe
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\bin\Debug\Practico_2_adasme.pdb
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.csprojAssemblyReference.cache
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.Form1.resources
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.Properties.Resources.resources
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.csproj.GenerateResource.cache
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.csproj.CoreCompileInputs.cache
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.exe
+C:\Users\Laloo\source\repos\Practico_2_adasme\Practico_2_adasme\obj\Debug\Practico_2_adasme.pdb
